@@ -6,3 +6,7 @@ git branch -M main
 git remote add origin https://github.com/Muhammedtanay/SQL-Stored_Procedure.git
 git push -u origin main
 doskey/history >>Git.txt
+
+
+git add -A
+git commit -am "dosya"
